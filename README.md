@@ -14,7 +14,7 @@ Help me with a coffe: https://cafecito.app/oscarafdev (1 USD)
 
 
 
-## Laravel 6/7/8 installation
+## Laravel 6/7/8/9 installation
 
 The recommended way to install this is through composer:
 
