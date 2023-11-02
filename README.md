@@ -10,7 +10,7 @@ Generate Laravel Migrations from an existing database, including indexes and for
 https://t.me/h0rnero
 
 
-## Laravel 6/7/8 installation
+## Laravel 6/7/8/9 installation
 
 The recommended way to install this is through composer:
 
