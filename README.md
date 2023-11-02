@@ -60,7 +60,7 @@ Bernhard Breytenbach ([@BBreyten](https://twitter.com/BBreyten))
 
 Oscar Fernandez ([@oscarafdev](https://www.linkedin.com/in/oscarafdev/))
 
-ofernandez@sofrecom.com.ar
+oscarafdev@gmail.com
 
 ## License
 
